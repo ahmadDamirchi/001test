@@ -1,0 +1,19 @@
+.myDiv1{
+    background-color: chartreuse;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+.myDiv2 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin:auto ;
+}
+#myBtn{
+    margin: auto;
+    display: flex;
+    margin-top: 30px;
+}
